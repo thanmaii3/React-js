@@ -2,8 +2,6 @@ import React from "react";
 
 import Faker from 'faker';
 
-
-
 function CommentBox(props){
 console.log(props)
     
@@ -25,8 +23,6 @@ console.log(props)
   </div>
  </div>
         
-      
-  
     )
 }
 export default CommentBox;
